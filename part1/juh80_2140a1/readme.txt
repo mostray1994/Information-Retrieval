@@ -1,0 +1,3 @@
+environment:jdk1.7
+how to run: add the whole folder to eclipse or JVM, then add data resourse to the project fellow the path in Path.java, finally running the HW1MAIN.java.
+how to read:the main class(HW1MAIN.java)is in default pakage, the given classes(Path.java and Stemmer.java)are in Classes pakege and documentcollection interface and other five classes which is the function to preprocess data()are in PreProcessData pakage.
